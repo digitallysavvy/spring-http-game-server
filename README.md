@@ -35,7 +35,7 @@ Return the player details for client making the request
 ```bash
 http://localhost:8080/player
 ```
-==
+
 Return the requested player details
 ```bash
 http://localhost:8080/player/{playerIP}
