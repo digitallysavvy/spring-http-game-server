@@ -1,0 +1,9 @@
+
+—Compile
+./gradlew build
+
+—Run
+java -jar build/libs/gs-rest-service-0.1.0.jar
+
+—In Browser
+http://localhost:8080/connect
